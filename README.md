@@ -20,16 +20,17 @@
   
 <h2 style="display: inline-block; vertical-align: middle;">🛠 기술 스택</h2>
 
-<h2 style="display: inline-block; vertical-align: middle;">주로 사용하는 기술/h2>
+<h2 style="display: inline-block; vertical-align: middle;">주로 사용하는 기술</h2>
   
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.5-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 ![NCP](https://img.shields.io/badge/-NCP-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-<h2 style="display: inline-block; vertical-align: middle;">잘 쓰지 않는 기술/h2>
+<h2 style="display: inline-block; vertical-align: middle;">잘 쓰지 않는 기술</h2>
   
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
