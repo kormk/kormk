@@ -1,11 +1,13 @@
-# 👋Welcome to my GitHub ![](https://komarev.com/ghpvc/?username=kormk&label=Profile%20views&color=af4bf1&style=flat) 
+# 👋안녕하세요 오민귭니다. ![](https://komarev.com/ghpvc/?username=kormk&label=Profile%20views&color=af4bf1&style=flat) 
 
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
 
-- 계명대학교 컴퓨터공학부 컴퓨터공학전공에 재학중인 오민규 입니다.
+- 계명대학교 컴퓨터공학부 컴퓨터공학전공에 재학중인 오민규 입니다. 2019.02 ~
+- 계명대학교 차세대 보안 연구실 NISL 2022.12 ~
+  
 
 
-<h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
+<h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2> 
 
 
 
@@ -23,12 +25,7 @@
 <h3 style="display: inline-block; vertical-align: middle;">주로 사용하는 기술</h3>
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.5-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NCP](https://img.shields.io/badge/-NCP-03C75A?style=for-the-badge&logo=naver&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 
 <h3 style="display: inline-block; vertical-align: middle;">잘 쓰지 않는 기술</h3>
   
@@ -39,7 +36,7 @@
 
 
 
-<h2 style="display: inline-block; vertical-align: middle;">📜논문 연구 개발 프로젝트</h2>
+<h2 style="display: inline-block; vertical-align: middle;">📜논문</h2>
 
 - 스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구
   - [https://github.com/wara-capstone/Lowest-Cost-Cloud-Architecture]
