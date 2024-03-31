@@ -7,7 +7,8 @@
   
 <h2 style="display: inline-block; vertical-align: middle;">📜논문</h2>
 
-- 한국정보기술학회 2023 추계종합학술대회: [스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구](https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&as_ylo=2023&q=스타트업을+위한+계층화+아키텍처+기반+최저비용+클라우드+아키텍처+연구&btnG=)
+- 한국정보기술학회 2023 추계종합학술대회: [스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구](https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&as_ylo=2023&q=스타트업을+위한+계층화+아키텍처+기반+최저비용+클라우드+아키텍처+연구&btnG=)  [🔍](https://github.com/TEAM-WARA/Lowest-Cost-Cloud-Architecture?tab=readme-ov-file)
+  
 
 <h2 style="display: inline-block; vertical-align: middle;">🏆수상</h2> 
 
