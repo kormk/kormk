@@ -7,18 +7,21 @@
   
 
 
-<h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2> 
+<h2 style="display: inline-block; vertical-align: middle;">🏆수상</h2> 
+제 7회 4차 산업혁명 인재양성 공유•협업페스티발 창업 아이디어 부문 우수상
 
 
-
-<h2 style="display: inline-block; vertical-align: middle;">💼프로젝트 포트폴리오</h2>
+<h2 style="display: inline-block; vertical-align: middle;">💼프로젝트</h2>
 
 - [소상공인을 위한 마케팅 플랫폼] - SprignBoot(MSA)
   - [https://github.com/changuii/DigitalMarketing-Server]
 
 - [esp32와 통신을 주고받는 앱] - Flutter
 
+<h2 style="display: inline-block; vertical-align: middle;">📜논문</h2>
 
+- 스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구
+  - [https://github.com/wara-capstone/Lowest-Cost-Cloud-Architecture]
   
 <h2 style="display: inline-block; vertical-align: middle;">🛠 기술 스택</h2>
 
@@ -27,20 +30,10 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 
-<h3 style="display: inline-block; vertical-align: middle;">잘 쓰지 않는 기술</h3>
-  
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kormk&show_icons=true&theme=radical&locale=en&layout=compact" alt="kormk" />
 
+<br/>
 
-
-
-<h2 style="display: inline-block; vertical-align: middle;">📜논문</h2>
-
-- 스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구
-  - [https://github.com/wara-capstone/Lowest-Cost-Cloud-Architecture]
-  
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
 
 - [https://velog.io/@kormk4324]
@@ -49,9 +42,3 @@
 
 - [alsrb4719@gmail.com]
   
-## 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kormk&show_icons=true&theme=radical&locale=en&layout=compact" alt="kormk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kormk&show_icons=true&theme=radical&locale=en" alt="kormk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kormk&theme=dark" alt="kormk" /></p>
