@@ -2,7 +2,7 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
 
-- 계명대학교 컴퓨터공학부 컴퓨터공학전공에 재학중인 오민규 입니다. 2019.03 ~
+- 계명대학교 컴퓨터공학부 컴퓨터공학전공 2019.03 ~
 - 계명대학교 차세대 보안 연구실 NISL 2022.12 ~
   
 <h2 style="display: inline-block; vertical-align: middle;">📜논문</h2>
@@ -40,5 +40,6 @@
 <h2 style="display: inline-block; vertical-align: middle;">블로그 및 이메일</h2>
 
 
-[🖋블로그](https://velog.io/@kormk4324) 
-[📧이메일](alsrb4719@gmail.com)
+🖋블로그: [https://velog.io/@kormk4324](https://velog.io/@kormk4324) <br/>
+
+📧이메일: alsrb4719@gmail.com
