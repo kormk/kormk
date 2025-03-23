@@ -25,8 +25,6 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kormk&show_icons=true&theme=radical&locale=en&layout=compact" alt="kormk" />
-
 <br/>
 <br/>
 <br/>
