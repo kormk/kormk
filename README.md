@@ -14,7 +14,7 @@
 - 2023년도 대한전자공학회 하계학술대회: [CSE-CIC-IDS2018 데이터를 활용한 딥러닝 기반 네트워크 침입 탐지 시스템](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11522628)  
 - 2023년도 한국정보기술학회 추계종합학술대회: [스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구](https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&as_ylo=2023&q=스타트업을+위한+계층화+아키텍처+기반+최저비용+클라우드+아키텍처+연구&btnG=)
 - 2024년도 대한전자공학회 하계종합학술대회: [의료 환경에서의 Fog Computing을 위한 인증과 키 합의 스키마 보안 분석 및 제안](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891096)
-- IEEE Internet of Things Journal: [PLAKA-MD: PUF-Based Lightweight Authentication and Key Agreement Scheme for Medical Devices in IoHT](https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20INTERNET%20THINGS&year=2023&fromPage=%2Fjcr%2Fhome)
+- IEEE Internet of Things Journal: [PLAKA-MD: PUF-Based Lightweight Authentication and Key Agreement Scheme for Medical Devices in IoHT](https://ieeexplore.ieee.org/abstract/document/10906502)
 
 
   
