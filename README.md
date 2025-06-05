@@ -16,21 +16,5 @@
 - 2024년도 대한전자공학회 하계종합학술대회: [의료 환경에서의 Fog Computing을 위한 인증과 키 합의 스키마 보안 분석 및 제안](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891096)
 - IEEE Internet of Things Journal: [PLAKA-MD: PUF-Based Lightweight Authentication and Key Agreement Scheme for Medical Devices in IoHT](https://ieeexplore.ieee.org/abstract/document/10906502)
 
-
-  
-<h2 style="display: inline-block; vertical-align: middle;">🛠 기술 스택</h2>
-
-<h3 style="display: inline-block; vertical-align: middle;">주로 사용하는 기술</h3>
-
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 <h2 style="display: inline-block; vertical-align: middle;">이메일</h2>
 📧이메일: alsrb4719@gmail.com
