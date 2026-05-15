@@ -34,8 +34,6 @@
 | 2024 | 대한전자공학회 하계종합학술대회 | [의료 환경에서의 Fog Computing을 위한 인증과 키 합의 스키마 보안 분석 및 제안](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891096) |
 | 2024 | 한국정보기술학회 하계종합학술대회 | [소상공인을 위한 온-오프라인 통합 패션 플랫폼 구현](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825721) |
 | 2023 | 한국정보기술학회 추계종합학술대회 | [스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11652007) |
-| 2023 | 대한전자공학회 추계학술대회 | [딥보이스를 이용한 보이스피싱의 대응방안을 위한 음성 주파수 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701410) |
-| 2023 | 대한전자공학회 추계학술대회 | [마이크로서비스 아키텍처 설계 및 구축을 위한 가상화 기술별 성능 비교 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701299) |
 | 2023 | 대한전자공학회 하계학술대회 | [CSE-CIC-IDS2018 데이터를 활용한 딥러닝 기반 네트워크 침입 탐지 시스템](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11522628) |
 
 ## 수상
