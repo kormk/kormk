@@ -1,4 +1,4 @@
-# 오민규입니다. ![](https://komarev.com/ghpvc/?username=kormk&label=Profile%20views&color=af4bf1&style=flat) 
+# 오민규입니다.
 
 ## 이력
 
