@@ -45,8 +45,8 @@
 
 ## 링크
 
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="18" height="18" alt="Gmail" /> Email: <alsrb4719@gmail.com>
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18" height="18" alt="LinkedIn" /> LinkedIn: [in/kr-omg](https://www.linkedin.com/in/kr-omg)
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/velog.svg" width="18" height="18" alt="Velog" /> Blog: [velog.io/@kormk4324](https://velog.io/@kormk4324/posts)
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" width="18" height="18" alt="ORCID" /> ORCID: [0009-0002-7196-3296](https://orcid.org/0009-0002-7196-3296)
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="18" height="18" alt="Gmail" /> Email: <alsrb4719@gmail.com> <br>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18" height="18" alt="LinkedIn" /> LinkedIn: [in/kr-omg](https://www.linkedin.com/in/kr-omg) <br>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/velog.svg" width="18" height="18" alt="Velog" /> Blog: [velog.io/@kormk4324](https://velog.io/@kormk4324/posts) <br>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" width="18" height="18" alt="ORCID" /> ORCID: [0009-0002-7196-3296](https://orcid.org/0009-0002-7196-3296)
 
